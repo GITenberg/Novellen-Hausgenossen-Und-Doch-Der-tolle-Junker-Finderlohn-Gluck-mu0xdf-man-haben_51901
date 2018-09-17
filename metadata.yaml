@@ -1,5 +1,8 @@
 _repo: Novellen-Hausgenossen-Und-Doch-Der-tolle-Junker-Finderlohn-Gluck-mu0xdf-man-haben_51901
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51901-h/images/cover.jpg
 creator:
   author:
     agent_name: Arnold, Hans
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '46600'
     url: http://www.gutenberg.org/2009/agents/46600
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51901#Novellen-Hausgenossen-Und-Doch-Der-tolle-Junker-Finderlohn-Gluck-mu0xdf-man-haben
 gutenberg_issued: '2016-04-30'
 gutenberg_type: Text
 identifiers:
